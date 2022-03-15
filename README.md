@@ -6,10 +6,10 @@ Product categorisation on user's Product Review
 
 ### Hence we're gooing for manual product naming as per described Topics
 
-Topic {1} : Toileteries Product
-Topic {2} : Pet Prodcut
-Topic {3} : Toy Product
-Topic {4} : Sports Product
-Topic {5} : Food Proudct
-Topic {6} : House Item Product
-Topic {7} : Exterior Product
+  Topic {1} : Toileteries Product
+  Topic {2} : Pet Prodcut
+  Topic {3} : Toy Product
+  Topic {4} : Sports Product
+  Topic {5} : Food Proudct
+  Topic {6} : House Item Product
+  Topic {7} : Exterior Product
